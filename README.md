@@ -1,3 +1,31 @@
+# Django Project Initialization
+
+1. Create a virtual environment:
+    ```bash
+    python -m venv venv
+    ```
+
+2. Activate the virtual environment:
+    ```bash
+    source venv/bin/activate
+    ```
+
+3. Install Django:
+    ```bash
+    pip install django
+    ```
+
+4. Save the installed packages to `requirements.txt`:
+    ```bash
+    pip freeze > requirements.txt
+    ```
+
+5. Start a new Django project:
+    ```bash
+    django-admin startproject <project-name>
+    ```
+
+
 # API Design
 
 ## Create Product
