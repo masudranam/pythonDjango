@@ -8,8 +8,7 @@
     ```json
     {
         "name": "product_name",
-        "price": "price",
-        ..........
+        "price": "price"
     }
     ```
 - **Response:**
