@@ -8,7 +8,8 @@
     ```json
     {
         "name": "product_name",
-        "price": "price"
+        "price": "price",
+        ..........
     }
     ```
 - **Response:**
@@ -31,7 +32,7 @@
 - **Response:**
     ```json
     {
-        "id": "5"
+        "id": "_id"
     }
     ```
   - 1xx: Informational responses
@@ -52,7 +53,7 @@
 - **Response:**
     ```json
     {
-        "id": "5"
+        "id": "_id"
     }
     ```
   - 200: OK (product found)
@@ -72,7 +73,7 @@
 - **Response:**
     ```json
     {
-        "id": "5"
+        "id": "_id"
     }
     ```
   - 200: OK (product updated)
