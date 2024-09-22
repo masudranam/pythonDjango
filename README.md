@@ -1,6 +1,6 @@
 # Django Project Initialization
 
-1. Create a virtual environment:
+#1. Create a virtual environment:
     ```bash
     python -m venv venv
     ```
